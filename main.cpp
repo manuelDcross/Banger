@@ -1,9 +1,21 @@
 #include <iostream>
 
 using namespace std;
+int addtwoNums(){
+    int a , b;
+
+    int sum = a+b;
+
+    cout << 'z' << endl;
+
+    return z;
+
+
+}
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
-}
+    addintNums()
+return 0;
+
+   }
